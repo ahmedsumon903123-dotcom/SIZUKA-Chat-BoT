@@ -23,22 +23,22 @@ module.exports.run = async function({ api, event }) {
 ┌───────────────⭓
 │ 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗧𝗔𝗜𝗟𝗦
 ├───────────────
-│👤 𝐍𝐚𝐦𝐞 : SHAHADAT SAHU
-│🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Maile
-│❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : Single
-│🎂 𝐀𝐠𝐞 : 18+
+│👤 𝐍𝐚𝐦𝐞 : Ahmed Sumon
+│🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : Male
+│❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : unmarried
+│🎂 𝐀𝐠𝐞 : 19+
 │🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : Islam
-│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : HSC (2026)
-│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Khagrachori 
+│🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : SSC (2024)
+│🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : Mymensingh  
 └───────────────⭓
 
 ┌───────────────⭓
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
 │📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-│https://fb.com/Uhasbbz
+│https://fb.com/Ahmedsumon8790
 │💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
-│https://wa.me/01882333052
+│https://wa.me/01615197003
 └───────────────⭓
 
 ┌───────────────⭓
@@ -50,7 +50,7 @@ module.exports.run = async function({ api, event }) {
  attachment: fs.createReadStream(__dirname + "/cache/owner.jpg")
  }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/owner.jpg"));
 
- return request("https://i.imgur.com/cwd64Av.jpeg")
+ return request("https://imgur.com/a/0074YUW.jpeg")
  .pipe(fs.createWriteStream(__dirname + '/cache/owner.jpg'))
  .on('close', () => callback());
 };
