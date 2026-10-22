@@ -30,10 +30,10 @@ module.exports.languages = {
 };
 
 const helpImages = [
-  "https://imgur.com/a/IZiklA5.jpeg",
-  "https://imgur.com/a/IZiklA5.jpeg",
-  "https://imgur.com/a/IZiklA5.jpeg",
-  "https://imgur.com/a/IZiklA5.jpeg"
+  "https://i.imgur.com/cwdAv.jpeg",
+  "https://i.imgur.com/hPtlo.jpeg",
+  "https://i.imgur.com/L7t4M.jpeg",
+  "https://i.imgur.com/5dGS5.jpeg"
 ];
 
 function getPrefix(threadID) {
@@ -126,7 +126,7 @@ function getCommandInfo(command, prefix, botName) {
 
 ⚙️ 𝗣𝗿𝗲𝗳𝗶𝘅: ${prefix}
 🤖 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲: ${botName}
-🌸 𝗢𝘄𝗻𝗲𝗿: AHMED SUMON`;
+🌸 𝗢𝘄𝗻𝗲𝗿: SHAHADAT SAHU`;
 }
 
 module.exports.run = function ({
