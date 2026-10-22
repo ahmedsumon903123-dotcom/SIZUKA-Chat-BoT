@@ -120,9 +120,8 @@ module.exports.run = async function({ api, event, Users, Threads }) {
         const message =
           `আরে ভাই! 😭
 
-এডমিনের অনুমতি ছাড়া লিভ?
-এত সাহস কই পেলি? 😂
-
+😹*Tried To Leave*
+*NoT Allowed hear*⛔
 যা, তোরে আবার গ্রুপে ঢুকায় দিলাম!✅🤣
 
 ◈━━꯭${botName}꯭━━◈`;
