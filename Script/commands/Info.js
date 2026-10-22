@@ -71,11 +71,11 @@ module.exports.run = async function ({
 │
 ├─ 👑 𝗡𝗮𝗺𝗲 : AHMED SUMON
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-│ facebook.com/61576385979018
+│ facebook.com/61576385979018 
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-│ m.me/61576385979018
+│ m.me/61576385979018 
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗀𝗩𝗵𝗔𝗽𝗽 :
-│ wa.me/+881615197003
+│ wa.me/+8801615197003
 ╰───────⭓
 
 ╭⭓ ⪩ 𝗔𝗖𝗧𝗜𝗩𝗜𝗧𝗜𝗘𝗦 ⪨
@@ -89,10 +89,10 @@ module.exports.run = async function ({
  😍${botName}😘`;
 
   const imgLinks = [
-    "https://imgur.com/a/IZiklA5.jpeg",
-    "https://imgur.com/a/IZiklA5.jpeg",
-    "",
-    ""
+    "https://i.imgur.com/cwd6v.jpeg",
+    "https://i.imgur.com/hPiXo.jpeg",
+    "https://i.imgur.com/L7txp.jpeg",
+    "https://i.imgur.com/5dGS5.jpeg"
   ];
 
   const imgLink =
