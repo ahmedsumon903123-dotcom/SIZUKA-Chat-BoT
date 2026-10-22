@@ -37,15 +37,15 @@ ${allCommands.map(cmd => `║ ➔ ${cmd}`).join("\n")}
 ╠══🔰 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎 🔰══╣
 ║ 🤖 𝐁𝐨𝐭: ${botName}
 ║ 👑 𝐎𝐰𝐧𝐞𝐫:
-║ AhMeD SuMoN
+║ 𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐒𝐀𝐇𝐔
 ║ 📦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬: ${allCommands.length}
 ╚═══════════════╝`;
 
   const backgrounds = [
-    "https://imgur.com/a/IZiklA5.jpeg",
-    "https://imgur.com/a/IZiklA5.jpeg",
-    " ",
-    " "
+    "https://i.imgur.com/cwd64Av.jpeg",
+    "https://i.imgur.com/hPtliXo.jpeg",
+    "https://i.imgur.com/L7txp4M.jpeg",
+    "https://i.imgur.com/5dG8PS5.jpeg"
   ];
 
   const selectedBg =
