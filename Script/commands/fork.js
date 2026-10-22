@@ -12,6 +12,6 @@ module.exports.config = {
 };
 
 module.exports.run = async function({ api, event }) {
-    const message = "আমাদের অফিসিয়াল Repository:\nhttps://gitlab.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git";
+    const message = " Jah Shoytan tui amr deho pabi mon pabi na 😒🔪";
     return api.sendMessage(message, event.threadID, event.messageID);
 };
